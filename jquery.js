@@ -2,9 +2,11 @@
 //
 // Let's try to answer some questions here:
 // 1. Can you guess what it does in general?
+// It is a calender to track when a task is completed
 // 2. How would you implement such thing? Would you use
 // similar approach or something totally different or maybe in-between?
 // 3. Can you point some obvious and less obvious issue with this code?
+// No documentation and I would change the "text" that is visible for the user like eg: "please choose data"
 //
 // Again please prepare secret gist with the answers!
 //
